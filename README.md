@@ -1,1 +1,1 @@
-# demo_git
+# StudentManagementProgram
